@@ -21,3 +21,4 @@ Copying files and their descriptions
 
 bypassUAC/disableDefenderNotifications/Hide from TaskManager/Anti-Sandbox/Debug (Stealth Mode)
 
+Join Our Telegram Project https://t.me/HEXODevRealOfficialChannel
